@@ -1,0 +1,9 @@
+name: kemal-cache-basic
+version: 0.1.0
+
+authors:
+  - Javier Valencia <jv@voiper.es>
+
+crystal: 0.23.1
+
+license: MIT
