@@ -18,7 +18,7 @@ dependencies:
 require "kemal-cache-basic"
 ```
 
-You must set "cache" key in context request object to true to enable cache, and the next request fly with Kemal. Becareful with non GET requests.
+You must set "cache" key in context request object to true to enable cache, and the next request fly with Kemal. Be careful with non GET requests.
 
 ## Contributing
 
